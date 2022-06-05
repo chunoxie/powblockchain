@@ -1,6 +1,6 @@
 **Activate the virtual environment**
 ```
-cd python-blockchain
+cd powblockchain
 python3 -m venv blockchain-env
 
 source blockchain-env/Scripts/activate - for Windows
